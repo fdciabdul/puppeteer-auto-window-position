@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-window",
+  "name": "puppeteer-auto-position",
   "version": "1.0.0",
   "description": "launch puppeteer with auto window position",
   "main": "index.js",
