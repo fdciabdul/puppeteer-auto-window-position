@@ -1,7 +1,11 @@
-# Puppeteer Auto Position
+<div align="center">
+    
 
+
+# Puppeteer Auto Position
 ![demo](https://github.com/fdciabdul/puppeteer-auto-window-position/assets/31664438/ffb78a3c-9572-4a97-abc6-45a0139b6212)
 
+</div>
 
 A simple Puppeteer module that automatically sets window positions when launching new browsers.
 
