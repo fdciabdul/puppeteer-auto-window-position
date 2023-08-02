@@ -2,7 +2,7 @@
   "name": "puppeteer-auto-position",
   "version": "1.0.1",
   "description": "launch puppeteer with auto window position",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "jest"
   },
